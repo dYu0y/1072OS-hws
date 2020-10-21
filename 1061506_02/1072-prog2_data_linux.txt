@@ -1,0 +1,8 @@
+0001 
+this is a book 
+0002
+this is a pen
+0003
+a good book is a book
+0004
+that book is good
